@@ -1,0 +1,182 @@
+body {
+	background: #F0F0F0;
+	font-family: 'Cabin', sans-serif;
+}
+
+.portada {
+	/*background-image: url("../images/portada.png");
+    background-size: cover;*/
+    padding: 20px;
+    height: 600px;
+}
+
+.logotipo {
+  	display: inline-block;
+    margin-left: 0;
+  }
+  .logoGrande {
+  	padding: 10px;
+  }
+
+  .nav {
+  	display: inline-block;
+  	position: absolute;
+  	right: 0;
+  }
+
+  .nav li {
+  	display: inline-block;
+  	margin-left: 0px;
+  }
+
+  .nav-link {
+  	color: #2E2E2E;
+  	font-size: 16px;
+  }
+   /*------------ABOUT----------------*/
+  .subtitulo {
+  	padding-top: 80px;
+  	padding-bottom: 40px;
+  	background: linear-gradient(to left, #2E2E2E, #4D4D4D  );
+	  }
+
+ .about {
+	background: linear-gradient(to left, #2E2E2E, #4D4D4D  );
+	padding-top: 40px;
+	padding-bottom: 115px;
+	
+ }
+ .blanco {
+ 	color: #F2F2F2;
+ }
+ .gris {
+ 	color: #999999;
+ }
+.grisC {
+	color: #CCCCCC;
+ }
+ .gde {
+ 	font-size: 27px;
+ }
+
+
+ /*------------technologies----------------*/
+ .subtitulo2 {
+  	padding-top: 80px;
+  	padding-bottom: 40px;
+  }
+  section.tecnologias{
+  	padding-bottom: 150px;
+  	padding-top: 80px;
+  }
+  .negro {
+  	color: #2E2E2E;
+  }
+  .gray {
+  	color: #666666;
+  }
+  
+  .paddingLetras {
+  	padding-top: 30px;
+  	padding-bottom: 30px;
+  }
+
+   /*------------SKILLS----------------*/
+  section.skills {
+  	background: linear-gradient(to left, #2E2E2E, #4D4D4D  );
+	padding-top: 40px;
+	padding-bottom: 115px;
+  }
+
+  div.articulo {
+  	background-color: #F0F0F0;
+  	padding-top: 45px;
+  	padding-left: 20px;
+  	padding-bottom: 70px;
+  	padding-right: 20px;
+  }
+  div.art {
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+  }
+
+  p.texto {
+  	padding-top: 30px;
+  }
+  h4.texto {
+  	padding-top: 30px;
+  	padding-bottom: 15px; 
+  	margin-right: 20px; 
+  }
+  h4.texto:hover {
+  	border-bottom: 3px solid #666666;
+
+  }
+
+   /*------------My work----------------*/
+  div.margen {
+  	margin-left: 60px;
+  	margin-right: 80px;
+  }
+  p.margen {
+  	margin-top: 20px;
+  }
+  .paddingLetras2 {
+  	padding-top: 40px;
+  	padding-bottom: 40px;
+  }
+
+  button.boton {
+  	border-radius: 15px;
+  	background-color: #2E2E2E;
+  	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 50px;
+  	
+  }
+
+  button.boton , a {
+	color: #F0F0F0;
+	text-decoration: none;
+	
+  }
+
+  a:hover {
+  	color: gray;
+  }
+
+  /*------------Contact me----------------*/
+  .contact {
+  	background: linear-gradient(to left, #2E2E2E, #4D4D4D  );
+	padding-top: 40px;
+	padding-bottom: 115px;
+	color:  #F0F0F0;
+  }
+  .row.contacto {
+  	padding-top: 40px;
+  	padding-bottom: 40px;
+  }
+  img.base {
+  	margin-bottom:  36px;
+  	margin-top: 40px;
+  }
+  img.base2 {
+  	margin-bottom: 45px;
+  	margin-top: 40px;
+  }
+
+  /* -------------------  FOOTER--------------- */
+ footer.footer {
+ 	background: linear-gradient(to left, #2E2E2E, #4D4D4D  );
+ 	padding-top: 40px;
+	padding-bottom: 80px;
+	color:  #F0F0F0;
+	text-align: center;
+
+ }
+.spacing {
+  letter-spacing: 3px;
+}
+
